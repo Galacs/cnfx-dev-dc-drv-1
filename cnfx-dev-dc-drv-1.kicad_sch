@@ -5252,7 +5252,7 @@
 	)
 	(text "WS2812B\nRGB LED"
 		(exclude_from_sim no)
-		(at 39.878 140.208 0)
+		(at 40.386 140.716 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -5920,16 +5920,6 @@
 			(type default)
 		)
 		(uuid "27c97a26-ce29-476f-87e9-37d23bc2a01d")
-	)
-	(wire
-		(pts
-			(xy 20.32 142.24) (xy 31.75 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "281bde38-030b-41ee-934a-ee8b29c15308")
 	)
 	(wire
 		(pts
@@ -7490,16 +7480,6 @@
 			(type default)
 		)
 		(uuid "f1c6b569-69d7-470c-bf39-883dd75bbe23")
-	)
-	(wire
-		(pts
-			(xy 20.32 140.97) (xy 20.32 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f212fb9f-3464-4a1a-bb68-6eb07bdc0f87")
 	)
 	(wire
 		(pts
@@ -10063,84 +10043,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 20.32 140.97 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3eeed0af-1c39-4eb2-b9dd-09d393750d82")
-		(property "Reference" "#PWR01"
-			(at 20.32 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V_MCU"
-			(at 25.908 138.938 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 20.32 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 20.32 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1a07c257-10ab-4b2b-9a71-5cfb502942ee")
-		)
-		(instances
-			(project "cnfx-dev-dc-drv-1"
-				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 111.76 92.71 270)
 		(mirror x)
@@ -10385,6 +10287,83 @@
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 31.75 142.24 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4a1bdb6d-8616-4e0e-820b-7b012f558dd0")
+		(property "Reference" "#PWR037"
+			(at 31.75 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 27.94 139.954 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 31.75 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "56bbfd34-22e7-4314-9c66-00733968276c")
+		)
+		(instances
+			(project "cnfx-dev-dc-drv-1"
+				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -12215,7 +12194,7 @@
 		(dnp no)
 		(uuid "7a072eff-a5ca-434d-8a57-6ab364dd812a")
 		(property "Reference" "D1"
-			(at 35.814 144.272 0)
+			(at 24.384 157.734 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
