@@ -1167,7 +1167,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0693d063-c3fd-40f5-a807-2c316f5d0758")
-		(property "Reference" "C19"
+		(property "Reference" "C18"
 			(at 135.636 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1265,19 +1265,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "0b47af03-a125-4a2b-8c90-19ccfac1949d")
+			(uuid "2668be9a-a20a-482d-a6f4-b19922e2774a")
 		)
 		(pin "1"
-			(uuid "4609fc9a-fe71-4476-a872-8e7dbb85ca28")
+			(uuid "97d16426-fe7c-478e-997e-25b25517fd87")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "C22")
+					(reference "C21")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "C19")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -1295,7 +1295,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0898018f-3660-4152-b6a8-a047873fcd06")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR043"
 			(at 147.32 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -1351,16 +1351,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "23fa7318-3f60-460d-a01d-59c5c2938f5b")
+			(uuid "144e820a-1354-4a90-96e5-f921bbe3be0b")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR047")
+					(reference "#PWR048")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR042")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -1378,7 +1378,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "631e3cef-e011-4a12-a020-980978408a24")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR044"
 			(at 158.75 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -1434,16 +1434,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "57502997-85f7-4d0f-91c8-9fd0e0b938c8")
+			(uuid "2e5fddff-344d-43e1-ac88-b84aa0ed9192")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR048")
+					(reference "#PWR049")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR043")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -1460,7 +1460,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "65efe834-2421-42d7-a562-471e27af7ccc")
-		(property "Reference" "C21"
+		(property "Reference" "C20"
 			(at 156.21 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1558,19 +1558,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "159e63e0-325f-4043-9db8-7a08889adb14")
+			(uuid "891f4c49-7d23-4b84-97ab-4a8e8b50f575")
 		)
 		(pin "1"
-			(uuid "b7c3e179-34a7-4d09-9875-3c7d59de5b71")
+			(uuid "98730391-c493-4243-9076-ca681dc4812a")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "C24")
+					(reference "C23")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "C21")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -1587,7 +1587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a8a1470f-6c44-476e-8538-60fec3584f11")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR041"
 			(at 144.78 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -1642,16 +1642,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "8ae1d090-545f-44a7-92ba-c0497717586d")
+			(uuid "39c0dc8f-1fc2-4d5c-acab-7354a69d313d")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR045")
+					(reference "#PWR046")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR040")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -1668,7 +1668,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bddb072d-92c7-4bef-ba9f-f545ba74736f")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR042"
 			(at 147.32 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -1723,16 +1723,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "0b42bb37-580f-4049-a788-f61cf47169e0")
+			(uuid "fdf06a7c-6dd0-4a67-96c5-d79c5f50bf78")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR046")
+					(reference "#PWR047")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR041")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -1749,7 +1749,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d41ad9e6-9bd9-4657-ac47-26d39857cbc9")
-		(property "Reference" "C20"
+		(property "Reference" "C19"
 			(at 156.21 75.946 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1847,19 +1847,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f2dcfd6-ddd3-42cc-969a-3a63accdd164")
+			(uuid "e2108ef3-2aea-4fca-96d8-586611edc917")
 		)
 		(pin "1"
-			(uuid "0f1704d8-d302-4507-ab24-0d3158f4cb42")
+			(uuid "f4fa7a91-f3e2-4694-bb3e-d2d2e59a9de5")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "C23")
+					(reference "C22")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "C20")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -1877,7 +1877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9c7308d-4429-4647-9f7c-e527ba52b798")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR040"
 			(at 134.62 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1933,16 +1933,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "d1b7e487-7cb5-4c3a-bcf2-8be86a3c7c5d")
+			(uuid "c65d9b4f-fba1-430c-8b6f-f7c5a7a81aeb")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR044")
+					(reference "#PWR045")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR039")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -1961,7 +1961,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1d60cf8-9295-4934-a5d5-34f46b721266")
-		(property "Reference" "J7"
+		(property "Reference" "J6"
 			(at 166.37 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2016,19 +2016,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "8749e99f-9029-41e9-b399-3bc1c23f73ea")
+			(uuid "7ffb893b-8698-42ac-a238-cec44d018ff6")
 		)
 		(pin "2"
-			(uuid "7a1640fc-f276-4c67-9047-37def789c0b0")
+			(uuid "85ef9538-fe54-4cb7-935d-1462cbd508ff")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "J8")
+					(reference "J7")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "J7")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -2145,31 +2145,31 @@
 			)
 		)
 		(pin "5"
-			(uuid "068e7665-85cf-452d-b3a8-d03233a85b9f")
+			(uuid "156fbccb-0afd-4661-a4ab-cc0a76b34f42")
 		)
 		(pin "4"
-			(uuid "9a6cac20-c0b9-4e6a-a136-5649d66e2b9c")
+			(uuid "5adf2123-772e-43bd-8e83-afaec53e3d77")
 		)
 		(pin "2"
-			(uuid "b06bb0b2-2c2b-4917-b4d0-6bcd5bfff7fb")
+			(uuid "564a05fd-461b-4ba4-88b3-3def3522f133")
 		)
 		(pin "3"
-			(uuid "5e086f77-7e34-4b67-8714-7721654a271d")
+			(uuid "feb7b621-59ce-4da0-a519-6c2f3dec8bc8")
 		)
 		(pin "6"
-			(uuid "ba4d9e3e-cf89-4c57-9f8c-28b96e5a3ccd")
+			(uuid "bc244858-aa97-411c-b357-c872330a8cfb")
 		)
 		(pin "7"
-			(uuid "acd66efa-4ec8-4f71-b4e8-4a0722f7907d")
+			(uuid "331a0aef-dd4e-4448-a32a-ff34ccba6bcd")
 		)
 		(pin "1"
-			(uuid "64a40140-fba1-409d-a7b8-c1d994d9f61b")
+			(uuid "3a361d72-8b6b-4251-bbbc-99b08b9a3665")
 		)
 		(pin "8"
-			(uuid "8b9497f9-04b4-46fc-bb07-1c388645dc06")
+			(uuid "dfe45994-1a0c-4257-bfe7-3fad2e3c066a")
 		)
 		(pin "9"
-			(uuid "61c07ea0-d8c6-4972-9c74-1ddf51d3d9f1")
+			(uuid "dcadd8be-b4df-4cf8-842b-82134d59266d")
 		)
 		(instances
 			(project "cnfx-dev-dc-drv-1"

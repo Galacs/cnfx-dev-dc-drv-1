@@ -5236,8 +5236,8 @@
 		)
 	)
 	(rectangle
-		(start 219.71 64.77)
-		(end 241.3 85.09)
+		(start 220.98 64.77)
+		(end 242.57 85.09)
 		(stroke
 			(width 0)
 			(type dash)
@@ -5381,7 +5381,7 @@
 	)
 	(text "UART"
 		(exclude_from_sim no)
-		(at 235.966 71.374 0)
+		(at 237.236 71.374 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -5537,6 +5537,12 @@
 		(uuid "37efdfbc-2de5-4d59-972c-b470c5cf0d94")
 	)
 	(junction
+		(at 201.93 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3df0c07d-c386-4cfb-b8fe-7d9bd0bd137b")
+	)
+	(junction
 		(at 114.3 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5589,12 +5595,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d574856-bf75-4623-8486-00a078a301a1")
-	)
-	(junction
-		(at 200.66 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "79079c40-9b33-4508-86a7-19f1b21bb66b")
 	)
 	(junction
 		(at 55.88 173.99)
@@ -5709,12 +5709,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e1014944-04ef-403b-bfd7-323cedb7c7ad")
-	)
-	(junction
-		(at 201.93 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e15dfbb4-3d91-496a-89db-5f88d22fa190")
 	)
 	(junction
 		(at 147.32 76.2)
@@ -6033,16 +6027,6 @@
 			(type default)
 		)
 		(uuid "17747656-f901-469a-b0bf-a4d071e87526")
-	)
-	(wire
-		(pts
-			(xy 199.39 68.58) (xy 204.47 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18f7fe8a-f5e8-4dee-bb3d-7762f9ea6bca")
 	)
 	(wire
 		(pts
@@ -6406,6 +6390,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 91.44) (xy 229.87 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46ed1751-358d-46e7-9f2a-80eab89d0330")
+	)
+	(wire
+		(pts
 			(xy 60.96 187.96) (xy 60.96 189.23)
 		)
 		(stroke
@@ -6546,6 +6540,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 81.28) (xy 205.74 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b2d3349-e9f6-4411-a0a4-d3fcf575ed5c")
+	)
+	(wire
+		(pts
 			(xy 100.33 173.99) (xy 100.33 180.34)
 		)
 		(stroke
@@ -6676,7 +6680,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 71.12) (xy 226.06 78.74)
+			(xy 227.33 71.12) (xy 227.33 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6746,16 +6750,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 78.74) (xy 201.93 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d0e3d20-251f-432d-a0fe-4921e229e981")
-	)
-	(wire
-		(pts
 			(xy 31.75 83.82) (xy 49.53 83.82)
 		)
 		(stroke
@@ -6816,16 +6810,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 88.9) (xy 223.52 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74c42330-f0ff-4173-b3d5-6e3ff26d44ae")
-	)
-	(wire
-		(pts
 			(xy 133.35 54.61) (xy 144.78 54.61)
 		)
 		(stroke
@@ -6833,16 +6817,6 @@
 			(type default)
 		)
 		(uuid "750e4613-9a42-482a-9cd3-b9c530c70c73")
-	)
-	(wire
-		(pts
-			(xy 200.66 71.12) (xy 204.47 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75691ab3-5596-4162-a60e-7e119ff7e6ee")
 	)
 	(wire
 		(pts
@@ -6946,7 +6920,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 80.01) (xy 237.49 81.28)
+			(xy 238.76 80.01) (xy 238.76 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7066,7 +7040,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 81.28) (xy 231.14 71.12)
+			(xy 232.41 81.28) (xy 232.41 71.12)
 		)
 		(stroke
 			(width 0)
@@ -7083,16 +7057,6 @@
 			(type default)
 		)
 		(uuid "994a54c0-17fb-4b9c-bad1-6f03007f843b")
-	)
-	(wire
-		(pts
-			(xy 199.39 91.44) (xy 228.6 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9957cf8f-10f0-4cae-9caa-99c07b440f5b")
 	)
 	(wire
 		(pts
@@ -7186,7 +7150,17 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 66.04) (xy 201.93 66.04)
+			(xy 201.93 71.12) (xy 205.74 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a96f4fb3-6ce3-480f-8505-788820e4306a")
+	)
+	(wire
+		(pts
+			(xy 199.39 66.04) (xy 205.74 66.04)
 		)
 		(stroke
 			(width 0)
@@ -7226,7 +7200,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 71.12) (xy 228.6 91.44)
+			(xy 229.87 71.12) (xy 229.87 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7336,7 +7310,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 81.28) (xy 231.14 81.28)
+			(xy 238.76 81.28) (xy 232.41 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7356,7 +7330,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 71.12) (xy 223.52 88.9)
+			(xy 224.79 71.12) (xy 224.79 88.9)
 		)
 		(stroke
 			(width 0)
@@ -7386,16 +7360,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 83.82) (xy 201.93 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b69c11cc-95b5-4fec-9e96-1a4c2361528a")
-	)
-	(wire
-		(pts
 			(xy 50.8 171.45) (xy 50.8 172.72)
 		)
 		(stroke
@@ -7403,6 +7367,16 @@
 			(type default)
 		)
 		(uuid "b6ce2172-fd35-416b-9702-4b36322894de")
+	)
+	(wire
+		(pts
+			(xy 199.39 83.82) (xy 205.74 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b87484d3-6fd2-4ab2-9536-426d620f809e")
 	)
 	(wire
 		(pts
@@ -7466,6 +7440,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 78.74) (xy 205.74 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdd7a504-c5ca-4776-9b7f-f3a5ab0a5aff")
+	)
+	(wire
+		(pts
 			(xy 55.88 185.42) (xy 55.88 186.69)
 		)
 		(stroke
@@ -7473,6 +7457,16 @@
 			(type default)
 		)
 		(uuid "bf373687-c5be-4f30-9ad6-ef7be8d8b4a9")
+	)
+	(wire
+		(pts
+			(xy 199.39 88.9) (xy 224.79 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf54ca23-258a-44da-bc05-6352736f0c8a")
 	)
 	(wire
 		(pts
@@ -7553,16 +7547,6 @@
 			(type default)
 		)
 		(uuid "c8371964-1de3-4ea5-9bd4-0e81ca18d250")
-	)
-	(wire
-		(pts
-			(xy 199.39 81.28) (xy 201.93 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c86ea3f8-fec7-4674-8996-b31653ccf2bc")
 	)
 	(wire
 		(pts
@@ -7683,16 +7667,6 @@
 			(type default)
 		)
 		(uuid "d98544a2-5837-4d34-9eae-dc01e7dc902a")
-	)
-	(wire
-		(pts
-			(xy 201.93 66.04) (xy 204.47 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d98f080b-3e1f-4de3-a3e0-39c12a4f9a79")
 	)
 	(wire
 		(pts
@@ -7826,7 +7800,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 71.12) (xy 200.66 71.12)
+			(xy 199.39 71.12) (xy 201.93 71.12)
 		)
 		(stroke
 			(width 0)
@@ -7923,6 +7897,16 @@
 			(type default)
 		)
 		(uuid "f62943c2-9794-43f0-842d-29b329b899e4")
+	)
+	(wire
+		(pts
+			(xy 199.39 68.58) (xy 205.74 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f72ad3b0-d9a6-4a6b-93a7-4ef492fcb254")
 	)
 	(wire
 		(pts
@@ -9147,7 +9131,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a30285d-4281-4cec-9e80-32f68d6c9ae9")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR027"
 			(at 137.16 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -9207,7 +9191,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR026")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -9691,7 +9675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30405d62-7c7c-4f89-a7d6-653ea56fa716")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR036"
 			(at 203.2 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -9752,7 +9736,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR034")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -11619,7 +11603,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 226.06 78.74 0)
+		(at 227.33 78.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11628,8 +11612,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5709ba5e-53cb-4958-9149-415c50842002")
-		(property "Reference" "#PWR037"
-			(at 226.06 85.09 0)
+		(property "Reference" "#PWR038"
+			(at 227.33 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11640,7 +11624,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 228.092 82.55 0)
+			(at 229.362 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11651,7 +11635,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 78.74 0)
+			(at 227.33 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11662,7 +11646,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 78.74 0)
+			(at 227.33 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11673,7 +11657,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 226.06 78.74 0)
+			(at 227.33 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11689,7 +11673,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR037")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -12192,7 +12176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67fba14e-009f-475c-afbb-ac9b7430bca0")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR035"
 			(at 203.2 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -12253,7 +12237,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR036")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -12270,7 +12254,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68136b21-36ba-467a-939f-2639da6a4171")
-		(property "Reference" "C16"
+		(property "Reference" "C17"
 			(at 201.93 35.052 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12378,7 +12362,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "C16")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -12395,7 +12379,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "684f90c8-afea-4f1d-92a7-699550c7a428")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR034"
 			(at 194.31 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -12455,7 +12439,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR033")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -12708,7 +12692,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ebc0ff6-8457-49e3-ae6a-fdaa1b2e5633")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 182.88 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -12769,7 +12753,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -12787,7 +12771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70911094-e602-4470-858c-664189d5b444")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR031"
 			(at 162.56 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -12848,7 +12832,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR030")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -12865,7 +12849,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "75f01a63-6aa6-460b-b5c7-116857e7c1ba")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR032"
 			(at 165.1 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -12925,7 +12909,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR031")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -13153,7 +13137,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f86eaf4-dcb1-41fa-bc10-020f224cad41")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR028"
 			(at 139.7 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -13214,7 +13198,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR027")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -13303,7 +13287,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 237.49 80.01 0)
+		(at 238.76 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13313,8 +13297,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84f99ce9-78cf-41a7-9400-13515aa31bf2")
-		(property "Reference" "#PWR038"
-			(at 237.49 83.82 0)
+		(property "Reference" "#PWR039"
+			(at 238.76 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13325,7 +13309,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 237.49 74.93 0)
+			(at 238.76 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13335,7 +13319,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 80.01 0)
+			(at 238.76 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13346,7 +13330,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 80.01 0)
+			(at 238.76 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13357,7 +13341,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 237.49 80.01 0)
+			(at 238.76 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13373,7 +13357,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR038")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -13644,7 +13628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87c01857-f61f-46f6-8023-6b8b8f99fe3f")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR029"
 			(at 151.13 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -13705,7 +13689,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR028")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -14228,7 +14212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f1f9c13-14a5-40ca-b732-6b51e45314c2")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR030"
 			(at 154.94 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -14289,7 +14273,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR029")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -14821,85 +14805,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 201.93 66.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a26a2867-cb78-4fca-b4ac-9bfbdf30521c")
-		(property "Reference" "TP5"
-			(at 197.866 61.214 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 204.47 64.0079 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 207.01 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 207.01 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 201.93 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bd38e965-ee3d-4d6c-aac0-7ebecc88b9d8")
-		)
-		(instances
-			(project "cnfx-dev-dc-drv-1"
-				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "TP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 198.12 57.15 90)
 		(unit 1)
@@ -14910,7 +14815,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "abbfe3bd-b38d-47f5-b673-ba0792918a66")
-		(property "Reference" "C17"
+		(property "Reference" "C16"
 			(at 196.596 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15018,7 +14923,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "C17")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -15355,7 +15260,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 200.66 71.12 180)
+		(at 201.93 71.12 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15365,7 +15270,7 @@
 		(dnp no)
 		(uuid "b9d66144-8a46-40a3-8ae7-ecbefbafe4aa")
 		(property "Reference" "TP4"
-			(at 204.47 72.898 0)
+			(at 204.47 76.962 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15376,7 +15281,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 198.12 73.1521 0)
+			(at 199.39 73.1521 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15388,7 +15293,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 195.58 71.12 0)
+			(at 196.85 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15399,7 +15304,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 71.12 0)
+			(at 196.85 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15410,7 +15315,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 200.66 71.12 0)
+			(at 201.93 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15916,7 +15821,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c651f972-1406-4aca-b3c4-1d5670b60020")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR037"
 			(at 207.01 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -15977,7 +15882,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR035")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -16277,7 +16182,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca311542-c8c7-46db-b303-95dc53b36af0")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR024"
 			(at 133.35 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -16337,7 +16242,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR023")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -16513,7 +16418,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d0daf08d-b1e7-40bf-93a3-14b5bc4bd121")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR023"
 			(at 116.84 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -16573,7 +16478,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR0130")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -16737,7 +16642,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 228.6 66.04 270)
+		(at 229.87 66.04 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16746,8 +16651,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6efbcdb-8440-4c3a-990b-71088af9d447")
-		(property "Reference" "J6"
-			(at 233.934 66.294 90)
+		(property "Reference" "J5"
+			(at 235.204 66.294 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16757,7 +16662,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 227.33 63.5 90)
+			(at 228.6 63.5 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16768,7 +16673,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 228.6 66.04 0)
+			(at 229.87 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16779,7 +16684,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 66.04 0)
+			(at 229.87 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16790,7 +16695,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 228.6 66.04 0)
+			(at 229.87 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16815,7 +16720,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "J6")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -17821,7 +17726,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee4d84fd-ea10-4246-a1cb-720c863f2c6a")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR026"
 			(at 135.89 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -17882,7 +17787,7 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR025")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -18287,7 +18192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc9a1bb1-8b0f-4370-b7b7-e5c3af06b768")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR025"
 			(at 133.35 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -18348,14 +18253,14 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
-					(reference "#PWR024")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(sheet
-		(at 201.93 76.2)
+		(at 205.74 63.5)
 		(size 12.7 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18370,7 +18275,7 @@
 		)
 		(uuid "2f39e93a-7dab-4c5f-bab4-ebced1dd2a42")
 		(property "Sheetname" "DC Driver 2"
-			(at 202.184 75.692 0)
+			(at 205.994 62.992 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18381,7 +18286,7 @@
 			)
 		)
 		(property "Sheetfile" "dc-drv.kicad_sch"
-			(at 201.93 86.9446 0)
+			(at 205.74 74.2446 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18393,7 +18298,7 @@
 			)
 		)
 		(pin "~{SLEEP}" input
-			(at 201.93 78.74 180)
+			(at 205.74 66.04 180)
 			(uuid "2cbfb9ba-4fb2-4231-9bc1-138ce766701f")
 			(effects
 				(font
@@ -18403,7 +18308,7 @@
 			)
 		)
 		(pin "IN1" input
-			(at 201.93 81.28 180)
+			(at 205.74 71.12 180)
 			(uuid "1a6f55a1-fcdf-433e-a916-878919bf365e")
 			(effects
 				(font
@@ -18413,7 +18318,7 @@
 			)
 		)
 		(pin "IN2" input
-			(at 201.93 83.82 180)
+			(at 205.74 68.58 180)
 			(uuid "5c73b049-e097-4477-acf9-74edeb96a3f9")
 			(effects
 				(font
@@ -18431,7 +18336,7 @@
 		)
 	)
 	(sheet
-		(at 204.47 63.5)
+		(at 205.74 76.2)
 		(size 12.7 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18447,7 +18352,7 @@
 		)
 		(uuid "f0bf0a93-3c7e-4d12-964b-27010dc9e1f3")
 		(property "Sheetname" "DC Driver"
-			(at 204.47 62.7884 0)
+			(at 205.74 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18458,7 +18363,7 @@
 			)
 		)
 		(property "Sheetfile" "dc-drv.kicad_sch"
-			(at 204.47 74.2446 0)
+			(at 205.74 86.9446 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18470,7 +18375,7 @@
 			)
 		)
 		(pin "~{SLEEP}" input
-			(at 204.47 66.04 180)
+			(at 205.74 78.74 180)
 			(uuid "fdadff82-4974-4338-93a7-fc9d449c848b")
 			(effects
 				(font
@@ -18480,7 +18385,7 @@
 			)
 		)
 		(pin "IN1" input
-			(at 204.47 68.58 180)
+			(at 205.74 81.28 180)
 			(uuid "7054a6f6-17f4-4691-8331-7ab378ab2ede")
 			(effects
 				(font
@@ -18490,7 +18395,7 @@
 			)
 		)
 		(pin "IN2" input
-			(at 204.47 71.12 180)
+			(at 205.74 83.82 180)
 			(uuid "3b6bf439-8465-4416-aa7e-d13f0056672a")
 			(effects
 				(font
