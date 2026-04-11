@@ -416,13 +416,21 @@
         "uuid": "d7250a19-615d-468e-abbc-0dea4b78aeef"
       }
     ],
-    "used_designators": "SW1-3,U1-2,JP1,TP1,R3-8,J1-4,D1,D3-8,D11,C1-6,C8,C11-15,Y1,FB1,#PWR1,#PWR3-6,#PWR8-12,#PWR15-17,#PWR19-27,#FLG3",
+    "used_designators": "SW1-3,U1-4,JP1,TP1-2,R3-8,J1-6,D1,D3-8,D11,C1-6,C8,C11-21,Y1,FB1,#PWR1,#PWR3-6,#PWR8-33,#FLG3",
     "variants": []
   },
   "sheets": [
     [
       "d7250a19-615d-468e-abbc-0dea4b78aeef",
       "Root"
+    ],
+    [
+      "f0bf0a93-3c7e-4d12-964b-27010dc9e1f3",
+      "DC Driver"
+    ],
+    [
+      "2f39e93a-7dab-4c5f-bab4-ebced1dd2a42",
+      "DC Driver 2"
     ]
   ],
   "text_variables": {},

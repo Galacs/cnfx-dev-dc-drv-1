@@ -13059,6 +13059,160 @@
 			)
 		)
 	)
+	(sheet
+		(at 209.55 95.25)
+		(size 12.7 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2f39e93a-7dab-4c5f-bab4-ebced1dd2a42")
+		(property "Sheetname" "DC Driver 2"
+			(at 209.55 94.5384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dc-drv.kicad_sch"
+			(at 209.55 105.9946 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "~{SLEEP}" input
+			(at 209.55 102.87 180)
+			(uuid "2cbfb9ba-4fb2-4231-9bc1-138ce766701f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN1" input
+			(at 209.55 97.79 180)
+			(uuid "1a6f55a1-fcdf-433e-a916-878919bf365e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN2" input
+			(at 209.55 100.33 180)
+			(uuid "5c73b049-e097-4477-acf9-74edeb96a3f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "cnfx-dev-dc-drv-1"
+				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 209.55 81.28)
+		(size 12.7 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f0bf0a93-3c7e-4d12-964b-27010dc9e1f3")
+		(property "Sheetname" "DC Driver"
+			(at 209.55 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dc-drv.kicad_sch"
+			(at 209.55 92.0246 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "~{SLEEP}" input
+			(at 209.55 88.9 180)
+			(uuid "fdadff82-4974-4338-93a7-fc9d449c848b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN1" input
+			(at 209.55 83.82 180)
+			(uuid "7054a6f6-17f4-4691-8331-7ab378ab2ede")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN2" input
+			(at 209.55 86.36 180)
+			(uuid "3b6bf439-8465-4416-aa7e-d13f0056672a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "cnfx-dev-dc-drv-1"
+				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
