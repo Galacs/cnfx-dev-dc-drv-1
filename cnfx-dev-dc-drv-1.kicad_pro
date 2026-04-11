@@ -549,7 +549,7 @@
         "uuid": "d7250a19-615d-468e-abbc-0dea4b78aeef"
       }
     ],
-    "used_designators": "TP4-5,J8,#PWR44,#PWR49-50",
+    "used_designators": "#FLG1-2,TP4-5,J8,#PWR44,#PWR49-50",
     "variants": []
   },
   "sheets": [
