@@ -1167,7 +1167,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0693d063-c3fd-40f5-a807-2c316f5d0758")
-		(property "Reference" "C17"
+		(property "Reference" "C19"
 			(at 135.636 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1273,11 +1273,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "C19")
+					(reference "C22")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "C17")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -1295,7 +1295,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0898018f-3660-4152-b6a8-a047873fcd06")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR042"
 			(at 147.32 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -1356,11 +1356,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR032")
+					(reference "#PWR047")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR028")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -1378,7 +1378,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "631e3cef-e011-4a12-a020-980978408a24")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR043"
 			(at 158.75 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -1439,11 +1439,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR033")
+					(reference "#PWR048")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR029")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -1460,7 +1460,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "65efe834-2421-42d7-a562-471e27af7ccc")
-		(property "Reference" "C16"
+		(property "Reference" "C21"
 			(at 156.21 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1566,11 +1566,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "C21")
+					(reference "C24")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "C16")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -1587,7 +1587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a8a1470f-6c44-476e-8538-60fec3584f11")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR040"
 			(at 144.78 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -1647,11 +1647,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR014")
+					(reference "#PWR045")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR012")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -1668,7 +1668,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bddb072d-92c7-4bef-ba9f-f545ba74736f")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR041"
 			(at 147.32 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -1728,11 +1728,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR018")
+					(reference "#PWR046")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR013")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -1749,7 +1749,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d41ad9e6-9bd9-4657-ac47-26d39857cbc9")
-		(property "Reference" "C18"
+		(property "Reference" "C20"
 			(at 156.21 75.946 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1855,11 +1855,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "C20")
+					(reference "C23")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "C18")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -1877,7 +1877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9c7308d-4429-4647-9f7c-e527ba52b798")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR039"
 			(at 134.62 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1938,11 +1938,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "#PWR031")
+					(reference "#PWR044")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "#PWR030")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -1961,7 +1961,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1d60cf8-9295-4934-a5d5-34f46b721266")
-		(property "Reference" "J5"
+		(property "Reference" "J7"
 			(at 166.37 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2024,11 +2024,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "J6")
+					(reference "J8")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "J5")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -2045,7 +2045,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9030caf-1ece-4f93-95a6-4252c0bc9355")
-		(property "Reference" "U3"
+		(property "Reference" "U5"
 			(at 140.97 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2174,11 +2174,11 @@
 		(instances
 			(project "cnfx-dev-dc-drv-1"
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/2f39e93a-7dab-4c5f-bab4-ebced1dd2a42"
-					(reference "U4")
+					(reference "U6")
 					(unit 1)
 				)
 				(path "/d7250a19-615d-468e-abbc-0dea4b78aeef/f0bf0a93-3c7e-4d12-964b-27010dc9e1f3"
-					(reference "U3")
+					(reference "U5")
 					(unit 1)
 				)
 			)
