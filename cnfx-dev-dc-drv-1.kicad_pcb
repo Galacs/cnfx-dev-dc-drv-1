@@ -127,7 +127,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0 -1.68 90)
+			(at -2.25 0 180)
 			(layer "F.SilkS")
 			(uuid "9dd3fdc9-8a2b-4666-9c8b-b4f60b00fcec")
 			(effects
@@ -339,6 +339,7 @@
 		(property "Reference" "H3"
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "cf89b1b2-e2dd-411c-9563-6ebeb4acda85")
 			(effects
 				(font
@@ -554,7 +555,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C21"
-			(at 0 -1.16 0)
+			(at 0 -1.015 0)
 			(layer "F.SilkS")
 			(uuid "74f7e410-f71a-46ae-a83d-028852da889d")
 			(effects
@@ -1035,7 +1036,7 @@
 		(descr "SMD Tactile Switch, 3.9x3x2 mm, https://lcsc.com/datasheet/lcsc_datasheet_2504101957_XUNPU-TS-1088-AR02016_C720477.pdf")
 		(tags "Tactile Switch")
 		(property "Reference" "SW2"
-			(at 0 -2.65 90)
+			(at 0 3.5 180)
 			(layer "F.SilkS")
 			(uuid "1271bdc1-8989-4891-ac1a-f871e9000d82")
 			(effects
@@ -1347,7 +1348,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at 0 -1.17 0)
+			(at 2 0 0)
 			(layer "F.SilkS")
 			(uuid "4b9e0a59-1965-452c-be5f-edeb6fd47392")
 			(effects
@@ -1557,7 +1558,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C22"
-			(at 0 -1.16 90)
+			(at 0.75 2.5 90)
 			(layer "F.SilkS")
 			(uuid "914b168a-f94e-495a-ba49-973e8167f700")
 			(effects
@@ -1767,7 +1768,7 @@
 		(descr "Keystone SMT Micro Mini Test Point 5015, http://www.keyelco.com/product-pdf.cfm?p=1353")
 		(tags "Test Point")
 		(property "Reference" "TP1"
-			(at 0 -2.25 0)
+			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "75101560-da8b-42e0-b6a8-c0ce677a77d3")
 			(effects
@@ -1981,7 +1982,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C17"
-			(at 0 -1.16 90)
+			(at -1.75 -0.25 180)
 			(layer "F.SilkS")
 			(uuid "6b393dd5-a43b-4831-bc84-4d9e0c9bd96b")
 			(effects
@@ -2191,7 +2192,7 @@
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D5"
-			(at 0.14 -1.2 90)
+			(at -0.365 1 90)
 			(layer "F.SilkS")
 			(uuid "ad82b282-f13f-414b-adaa-f2aac1cae04b")
 			(effects
@@ -2672,7 +2673,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C23"
-			(at 0 -1.16 90)
+			(at 0.75 2.25 90)
 			(layer "F.SilkS")
 			(uuid "495dba81-97ef-4ff5-8961-b70141ee60da")
 			(effects
@@ -2882,7 +2883,7 @@
 		(descr "SMD Tactile Switch, 3.9x3x2 mm, https://lcsc.com/datasheet/lcsc_datasheet_2504101957_XUNPU-TS-1088-AR02016_C720477.pdf")
 		(tags "Tactile Switch")
 		(property "Reference" "SW1"
-			(at 0 -2.65 0)
+			(at -4.5 0 0)
 			(layer "F.SilkS")
 			(uuid "12d8e9aa-633b-4b80-ac6e-8cb5d86c32ae")
 			(effects
@@ -3196,6 +3197,7 @@
 		(property "Reference" "H4"
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "98ebced9-84bf-4752-a9f3-453e2ebf9f43")
 			(effects
 				(font
@@ -3411,7 +3413,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C15"
-			(at 0 -1.16 90)
+			(at -0.25 1.25 90)
 			(layer "F.SilkS")
 			(uuid "fba73c53-77e1-42b7-8fe4-45ca340a321c")
 			(effects
@@ -3831,7 +3833,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C19"
-			(at 0 -1.16 90)
+			(at 0 2.25 90)
 			(layer "F.SilkS")
 			(uuid "96576b3f-3072-4fb2-8db3-0dbb880b218a")
 			(effects
@@ -4041,7 +4043,7 @@
 		(descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf)")
 		(tags "connector JST XH vertical")
 		(property "Reference" "J3"
-			(at 1.25 -3.55 0)
+			(at -4.1 -0.89 0)
 			(layer "F.SilkS")
 			(uuid "6fce082c-8f07-449f-ab74-bb1ba700fa39")
 			(effects
@@ -4538,7 +4540,7 @@
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D3"
-			(at 0.14 -1.2 0)
+			(at 0.14 1.119 0)
 			(layer "F.SilkS")
 			(uuid "5be05269-07c9-4780-b38a-5209b7bcbb78")
 			(effects
@@ -4809,7 +4811,7 @@
 		(descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf)")
 		(tags "connector JST XH vertical")
 		(property "Reference" "J7"
-			(at 1.25 -3.55 0)
+			(at 6.24 0.25 0)
 			(layer "F.SilkS")
 			(uuid "3dde2e65-598b-40bd-8788-904c8e72cc56")
 			(effects
@@ -5096,7 +5098,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0 -1.16 90)
+			(at 0 -2.5 90)
 			(layer "F.SilkS")
 			(uuid "0df84db3-d73b-4ba9-a32a-afe551c8bc49")
 			(effects
@@ -5305,7 +5307,7 @@
 		(at 102.75 72 90)
 		(descr "SMD2520/2, Crystal, 5.0x3.2mm package, SMD, http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf")
 		(property "Reference" "Y1"
-			(at 0 -2.8 90)
+			(at 0 -3 180)
 			(layer "F.SilkS")
 			(uuid "3cfa9619-dc3e-4f71-948f-476429e86053")
 			(effects
@@ -5749,7 +5751,7 @@
 		(descr "JST XH series connector, B3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf)")
 		(tags "connector JST XH vertical")
 		(property "Reference" "J1"
-			(at 2.5 -3.55 90)
+			(at 6.9 4.55 180)
 			(layer "F.SilkS")
 			(uuid "138c548e-8d2b-4d4a-90a3-f0df56f55dac")
 			(effects
@@ -6050,6 +6052,7 @@
 		(property "Reference" "H1"
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "695abce4-ec6d-449b-9be7-c0e88bfaf817")
 			(effects
 				(font
@@ -6265,7 +6268,7 @@
 		(descr "8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf")
 		(tags "WSON 8 1EP")
 		(property "Reference" "U5"
-			(at 0.38 -1.9 90)
+			(at 1 2.25 180)
 			(layer "F.SilkS")
 			(uuid "5dca88e4-1e77-4f5f-b883-580101f77e71")
 			(effects
@@ -6630,7 +6633,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.16 90)
+			(at -1.73 0 180)
 			(layer "F.SilkS")
 			(uuid "9a310447-574c-437d-969f-8e831d52122b")
 			(effects
@@ -6840,7 +6843,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C16"
-			(at 0 -1.16 90)
+			(at 0 3.75 90)
 			(layer "F.SilkS")
 			(uuid "5309fde0-b977-4e84-9240-57f9fd9c3fc8")
 			(effects
@@ -7208,7 +7211,7 @@
 		(descr "Keystone SMT Micro Mini Test Point 5015, http://www.keyelco.com/product-pdf.cfm?p=1353")
 		(tags "Test Point")
 		(property "Reference" "TP2"
-			(at 0 -2.25 0)
+			(at 0.95 2.65 90)
 			(layer "F.SilkS")
 			(uuid "8a38e4c4-d340-4ddc-982f-abcb37b083de")
 			(effects
@@ -7422,7 +7425,7 @@
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D4"
-			(at 0.14 -1.2 0)
+			(at 0.14 1.119 0)
 			(layer "F.SilkS")
 			(uuid "0e0a2d8d-394a-4b28-b5ba-22868201c5ad")
 			(effects
@@ -7693,7 +7696,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at 0 -1.17 90)
+			(at 0 2.25 90)
 			(layer "F.SilkS")
 			(uuid "a401a470-3d85-411d-85a6-75fac7b680f1")
 			(effects
@@ -8337,7 +8340,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 0 -1.43 0)
+			(at -2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "83551776-cce6-4ff1-b0e8-6ba2ffc49409")
 			(effects
@@ -8547,7 +8550,7 @@
 		(descr "Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf")
 		(tags "tag connect programming header pogo pins")
 		(property "Reference" "J2"
-			(at 0 2.7 0)
+			(at 0 1.865 0)
 			(layer "F.SilkS")
 			(uuid "0cd6c2a9-ab60-41e1-adb8-39363c6b4c9d")
 			(effects
@@ -8802,7 +8805,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 0 -1.16 0)
+			(at -0.05 1 0)
 			(layer "F.SilkS")
 			(uuid "f0b58ce1-8cd9-40df-95de-e9081472cb52")
 			(effects
@@ -9299,7 +9302,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C8"
-			(at 0 -1.68 90)
+			(at 2.25 0 180)
 			(layer "F.SilkS")
 			(uuid "5e49b15f-8e1d-4869-b801-dfa13b993958")
 			(effects
@@ -9509,7 +9512,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D1"
-			(at 0 -3.5 90)
+			(at 0.45 -3.85 180)
 			(layer "F.SilkS")
 			(uuid "6d54b75a-fb92-4e2e-a7a5-ea4e9d8a04d1")
 			(effects
@@ -9792,7 +9795,7 @@
 			(uuid "2badd2e1-f0be-405d-9c07-6f532a0c289a")
 		)
 		(fp_text user "1"
-			(at -4 -1.6 90)
+			(at -4.3 -1.6 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b3059147-a24f-468c-b110-8f8fe430502e")
@@ -9874,7 +9877,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 -1.17 0)
+			(at 0 -1 0)
 			(layer "F.SilkS")
 			(uuid "36c154aa-0f50-4656-aaf2-4b716fa4e908")
 			(effects
@@ -10084,7 +10087,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.16 90)
+			(at 0 -1.5 180)
 			(layer "F.SilkS")
 			(uuid "f00d7031-d3e0-411f-91c2-affdbee43b95")
 			(effects
@@ -10294,7 +10297,7 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "JP1"
-			(at 0 -2.38 0)
+			(at 0 5.025 0)
 			(layer "F.SilkS")
 			(uuid "477b77cf-1231-4aae-9024-57333da89a68")
 			(effects
@@ -10535,7 +10538,7 @@
 		(descr "SMD Tactile Switch, 3.9x3x2 mm, https://lcsc.com/datasheet/lcsc_datasheet_2504101957_XUNPU-TS-1088-AR02016_C720477.pdf")
 		(tags "Tactile Switch")
 		(property "Reference" "SW3"
-			(at 0 -2.65 0)
+			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "2e5a547e-f629-4f29-be21-c158375512ef")
 			(effects
@@ -11057,7 +11060,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at 0 -1.17 0)
+			(at -2 -0.25 0)
 			(layer "F.SilkS")
 			(uuid "d0eeeb90-c301-4196-99a4-b9df0f811c2d")
 			(effects
@@ -11267,7 +11270,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 0 -1.43 0)
+			(at -3 0 0)
 			(layer "F.SilkS")
 			(uuid "4ec41d3f-dfb1-4b0b-9466-0f7181df843f")
 			(effects
@@ -11477,7 +11480,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R7"
-			(at 0 -1.43 90)
+			(at -2.5 0 90)
 			(layer "F.SilkS")
 			(uuid "e1161474-ee9e-4b88-b21a-a6596ead89e4")
 			(effects
@@ -11689,6 +11692,7 @@
 		(property "Reference" "H2"
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "be31d361-6f56-4192-83fb-7d8ed8652ecc")
 			(effects
 				(font
@@ -11904,7 +11908,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "LED")
 		(property "Reference" "D8"
-			(at 0 -1.65 0)
+			(at 2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "46213215-8684-45f8-9f2c-dbce19294393")
 			(effects
@@ -13116,7 +13120,7 @@
 		(descr "SMD pad as test Point, diameter 2.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP4"
-			(at 0 -1.998 90)
+			(at 0 -2.75 180)
 			(layer "F.SilkS")
 			(uuid "197f05a4-cf46-46ff-bb75-ad331ce425ee")
 			(effects
@@ -13226,7 +13230,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C14"
-			(at 0 -1.16 90)
+			(at 1.75 0.5 180)
 			(layer "F.SilkS")
 			(uuid "d71c611c-e662-41e7-a333-d8deb952c5de")
 			(effects
@@ -13646,7 +13650,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "LED")
 		(property "Reference" "D6"
-			(at 0 -1.65 0)
+			(at 0 -1.75 0)
 			(layer "F.SilkS")
 			(uuid "569646c0-ca1e-49dc-bcaf-ee8fa5ad2ab9")
 			(effects
@@ -13920,7 +13924,7 @@
 		(descr "VQFN-HR, 10 Pin (https://www.ti.com/lit/ds/symlink/tps56a37.pdf#page=27)")
 		(tags "VQFN-HR NO LEAD")
 		(property "Reference" "U2"
-			(at 0 -2.6 90)
+			(at -2 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b6473007-0875-44e9-8bbb-bb0d3b167fe0")
@@ -14363,7 +14367,7 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J5"
-			(at 0 -2.38 90)
+			(at 0.25 -2.69 180)
 			(layer "F.SilkS")
 			(uuid "532211a4-3d00-40d3-b03d-cb51ed4edcbb")
 			(effects
@@ -14836,7 +14840,7 @@
 		(descr "Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "inductor")
 		(property "Reference" "FB1"
-			(at 0 -1.55 90)
+			(at 1.5 1.25 90)
 			(layer "F.SilkS")
 			(uuid "4ca53282-f7de-4f34-b9e2-e3471a61ac21")
 			(effects
@@ -15046,7 +15050,7 @@
 		(descr "8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf")
 		(tags "WSON 8 1EP")
 		(property "Reference" "U6"
-			(at 0.38 -1.9 90)
+			(at 1.25 2.25 180)
 			(layer "F.SilkS")
 			(uuid "279209ef-6ed6-4d1d-bae7-528a911fb94a")
 			(effects
@@ -15411,7 +15415,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C20"
-			(at 0 -1.16 90)
+			(at 0 2.5 90)
 			(layer "F.SilkS")
 			(uuid "84c05284-78a0-4c54-8596-6f5c0f7fbd3c")
 			(effects
@@ -15621,7 +15625,7 @@
 		(descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf)")
 		(tags "connector JST XH vertical")
 		(property "Reference" "J6"
-			(at 1.25 -3.55 0)
+			(at -3.85 1.25 0)
 			(layer "F.SilkS")
 			(uuid "d1751ae4-3c75-493b-93a2-49061565efff")
 			(effects
@@ -15908,7 +15912,7 @@
 		(descr "SMD pad as test Point, diameter 2.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP3"
-			(at 0 -1.998 90)
+			(at -2.25 0 180)
 			(layer "F.SilkS")
 			(uuid "3dddc452-a8ca-4c28-8e65-b64d1fdc3b8c")
 			(effects
@@ -16018,7 +16022,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1.17 0)
+			(at -2 0 0)
 			(layer "F.SilkS")
 			(uuid "33dfde38-cf04-495c-a1c7-830f88fc6279")
 			(effects
@@ -16228,7 +16232,7 @@
 		(descr "SOT-89-3, http://ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf")
 		(tags "SOT-89-3")
 		(property "Reference" "U3"
-			(at 0 -3.5 90)
+			(at 0 -3.5 180)
 			(layer "F.SilkS")
 			(uuid "b61b3aee-4ac1-4fa2-9a22-71e83071afe3")
 			(effects
@@ -16556,7 +16560,7 @@
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D7"
-			(at 0.14 -1.2 90)
+			(at 0.14 -1.2 180)
 			(layer "F.SilkS")
 			(uuid "e5fdc5e2-4323-4fa7-a832-66e78d5b8a7d")
 			(effects
