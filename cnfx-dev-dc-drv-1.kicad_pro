@@ -79,6 +79,10 @@
           ""
         ],
         [
+          "clearance|129000000|59500000|3f926f62-c86c-4373-980d-1e462d4e298b|f035661e-770b-41c9-bc52-988ad7306b9b",
+          ""
+        ],
+        [
           "clearance|131034483|65706897|3f926f62-c86c-4373-980d-1e462d4e298b|fcd5edde-3a28-422a-b80a-91122b3fd5bb",
           ""
         ],
@@ -843,7 +847,7 @@
         "uuid": "d7250a19-615d-468e-abbc-0dea4b78aeef"
       }
     ],
-    "used_designators": "#PWR50,H5-7,FID1-3,JP2-4,R9",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
