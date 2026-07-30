@@ -13,7 +13,11 @@ Dual 5V 1.5A DC motor driver for the cnfx series
 
 ## Top preview
 
+<img width="895" height="897" alt="image" src="https://github.com/user-attachments/assets/fd454d6e-0b61-4745-85b7-09c4aeea2078" />
+
 ## Preview 3d render
+
+<img width="949" height="857" alt="image" src="https://github.com/user-attachments/assets/f997284e-3064-4cf8-a75c-4457a0362abb" />
 
 ## Pin definitions
 
